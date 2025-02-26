@@ -95,6 +95,10 @@ IoT 개발자 데이터베이스 저장소
         +--------------------+
         4 rows in set (0.01 sec)
         ```
+
+<img src = './image/db001.png' width='700'>
+
+
 - workbench 설치
     - https://dev.mysql.com/downloads/workbench/ MySQL Workbench 8.0.41 다운로드 설치
     - MySQL Installer에서 Workbench, Sample 만 설치
@@ -162,4 +166,3 @@ IoT 개발자 데이터베이스 저장소
     - DDL
     - DML 중 INSERT, UPDATE, DELETE
 - SQL 고급
-    
